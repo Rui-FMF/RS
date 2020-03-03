@@ -1,2 +1,6 @@
 # RS
-Cadeira de Redes e Sistemas 2019/2020
+Project done by:  
+--> Hugo Paiva  
+--> Rui Fernandes  
+  
+Grade given: 19.2 
